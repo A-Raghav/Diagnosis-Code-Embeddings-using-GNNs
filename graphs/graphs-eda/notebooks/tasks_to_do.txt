@@ -1,0 +1,20 @@
+Tasks to do:
+* Compare the jaccard similarity score with the e_ij_intersection for connected nodes (normalise both); check if both follow the same general trend
+* how to measure topological distances b/w nodes in graph??
+* How to do computations in case of a directed graph?
+
+heterogenous graphs - graphsage...
+personalised page rank - better. how?
+structural features - leskovec
+jump probabilities - 
+disease progression
+
+
+1. Lectures, content, structural features, tools available
+2. identify similar problem sets - movielens dataset, ampligraph dataset (similar problems)
+3. node embeddings
+4. pytorch transformer
+
+Stories on jira
+
+ASK RISHAV FOR STELLARGRAPH WORK, CODE IF POSSIBLE, WHICH DATABASE HE WORKED ON, DID HE CREATE NODE EMBEDDINGS? WHAT WAS THE TASK?

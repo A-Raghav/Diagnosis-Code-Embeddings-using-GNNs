@@ -1,0 +1,3 @@
+***Links***
+* HCC-RAF Scores CSV - https://www.nber.org/research/data/risk-adjustment
+* Multi label classification - loss function - https://keras.io/examples/nlp/multi_label_classification/
